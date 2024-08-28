@@ -90,8 +90,9 @@ Requerimientos:
 5. Escala de calificaciones numéricas.
 6. Pago de tasas por apertura expediente 790.
     
-**Nota:** Todo en tamaño A4
-Para iniciar estudios se debe presentar al ministerio de Educación de España: **Volante de inscripción condicionada**
+**Nota:** Todo en tamaño A4.
+
+Para iniciar estudios rápidamente, puede presentarse al ministerio de Educación de España el **volante de inscripción condicionada**.
 
 Apostillar: 
 - Título
