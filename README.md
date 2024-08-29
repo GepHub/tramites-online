@@ -75,6 +75,12 @@ Comunicarse al siguiente [email](mailto:citaextran.valencia@correo.gob.es):
 
 [DGT](https://sede.dgt.gob.es/es/)
 
+### Certificado médico por estudios 
+
+- Sagunto: Puede realizarse en el Centro médico Morvedre. 
+[Site](https://centromedicomorvedre.es/)
+[maps](https://maps.app.goo.gl/LvJDZofS7v3ZNrUv9)
+
 ### Homologar títulos
 
 Ver antes de iniciar el trámite:
