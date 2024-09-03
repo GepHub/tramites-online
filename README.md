@@ -1,3 +1,20 @@
+## Table of Contents
+- [Trámites online](#trámites-online)
+  - [Argentina](#argentina)
+    - [Antigüedad carnet de conducir (Mendoza)](#antigüedad-carnet-de-conducir-mendoza)
+    - [Otros Trámites](#otros-trámites)
+  - [España](#españa)
+    - [Empadronamiento Puerto Sagunto](#empadronamiento-puerto-sagunto)
+    - [Firma electrónica (Sagunto)](#firma-electrónica-sagunto)
+    - [Oficina Extranjería](#oficina-extranjería)
+    - [Para Tramitar NIE](#para-tramitar-nie)
+    - [Para Tramitar CUE](#para-tramitar-cue)
+    - [Para Tramitar TIE](#para-tramitar-tie)
+    - [Otros Trámites](#otros-trámites-1)
+    - [Certificado médico por estudios](#certificado-médico-por-estudios)
+    - [Homologar títulos](#homologar-títulos)
+  - [Italia](#italia)
+
 # Trámites online
 Contiene información útil para realizar trámites online en Argentina, España e Italia.
 
@@ -53,11 +70,59 @@ Comunicarse al siguiente [email](mailto:citaextran.valencia@correo.gob.es):
 [Cita comunitarios](mailto:citacomunitarios.valencia@correo.gob.es)
 > citacomunitarios.valencia@correo.gob.es
 
+### Para Tramitar NIE
+- Pasaporte
+- [Empadronamiento](#empadronamiento-puerto-sagunto)
+
+### Para Tramitar CUE 
+(Certificado de Registro de Ciudadano de la Unión Europea). Mal llamado NIE Verde.
+
+- [Información](https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_certificadoregistro_ciudadanoue.php#)
+
+**Para ciudadanos Italianos que estén trabajando en España** 
+- Fotocopia Pasaporte Italiano
+- Contrato Laboral
+- Alta Seguridad Social
+- [Vida Laboral](https://sp.seg-social.es/PGIS/Login)
+- [Empadronamiento hasta 3 meses de antigüedad](#empadronamiento-puerto-sagunto)
+- [Formulario EX18 Solicitud](https://www.inclusion.gob.es/documents/410169/2156469/18-Certificado_residencia_comunitaria.pdf)
+- [Tasa 019](https://sede.policia.gob.es/Tasa790_012/)
+
+### Para Tramitar TIE 
+(TARJETA DE RESIDENCIA DE FAMILIAR DE CIUDADANO DE LA UNIÓN)
+
+Enviar la siguiente documentación a la oficina de Extranjería, (ellos dan la cita para presentar la misma):
+
+- CUE
+- Pasaporte Miembro de la UE (Completo)
+- Contrato de Trabajo
+- [Vida Laboral](https://sp.seg-social.es/PGIS/Login)
+- [Certificado colectivo empadronamiento](#empadronamiento-puerto-sagunto)
+- Certificado de Matrimonio (Apostillado no más de 6 meses)
+
+Solicitante:
+- Pasaporte (Completo)
+- [X19 completo firmado](https://www.inclusion.gob.es/documents/410169/2156469/19-Tarjeta_familiar_comunitario.pdf)
+En caso de menores también presentar:
+- Certificado nacimiento (Apostillado no más de 6 meses)
+- Acta Matrimonio de los padres apostillado no más de 6 meses y pasaporte de madre/padre completos
+
+Si la documentación es correcta responderán con la fecha y hora de la cita para presentar todos los papeles.
+Presentada la documentación, llegará el **favorable** con el cual ya podemos pedir Cita para la toma de huellas.
+
+Para la toma de huella:
+- El favorable emitido por Extranjería 
+- Se presentan todos los papeles aprobados por extranjería
+- [Pagar las tasas 790/012](https://sede.policia.gob.es/Tasa790_012/)
+
+Con este trámite realizado se debe volver a pedir cita pero esta vez para retirar el TIE.
+
+
 ### Otros Trámites
 
 [Administración Pública](https://sede.administracionespublicas.gob.es/)
 
-[Cita NIE, CUE, TIE - Administración pública](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+[Cita NIE, CUE, TIE - Administración pública, Toma de Huellas](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
 
 [Registro Civil Sagunto - Cita Previa](https://registrocivil.gva.es/es/cita-previa)
 
@@ -68,7 +133,7 @@ Comunicarse al siguiente [email](mailto:citaextran.valencia@correo.gob.es):
 ---
 [Declaración de la Renta](https://sede.agenciatributaria.gob.es/Sede/Renta.html)
 
-**Nota Renta:**
+**Aclaración:**
 La Agencia Tributaria suele empezar a hacer las devoluciones dos días después de empezar la campaña de la Renta. El fisco tiene un plazo de medio año para saldar sus cuentas.
 Cuando se trata de importes altos, sí que es cierto que Hacienda suele tardar más tiempo en abonar el pago. **Si Hacienda sobrepasa el límite de seis meses para devolverle el dinero es probable que sea por un motivo**. La razón más habitual por la que una devolución se retrasa es porque Hacienda está comprobando los datos de su declaración. Esto ocurre generalmente cuando incluye datos diferentes de los que la Agencia Tributaria disponía y debe confirmar que todo es correcto.
 
