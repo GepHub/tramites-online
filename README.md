@@ -65,6 +65,21 @@ Comunicarse al siguiente [email](mailto:citaextran.valencia@correo.gob.es):
 
 [Agencia Tributaria](https://sede.agenciatributaria.gob.es)
 
+---
+[Declaración de la Renta](https://sede.agenciatributaria.gob.es/Sede/Renta.html)
+
+**Nota Renta:**
+La Agencia Tributaria suele empezar a hacer las devoluciones dos días después de empezar la campaña de la Renta. El fisco tiene un plazo de medio año para saldar sus cuentas.
+Cuando se trata de importes altos, sí que es cierto que Hacienda suele tardar más tiempo en abonar el pago. **Si Hacienda sobrepasa el límite de seis meses para devolverle el dinero es probable que sea por un motivo**. La razón más habitual por la que una devolución se retrasa es porque Hacienda está comprobando los datos de su declaración. Esto ocurre generalmente cuando incluye datos diferentes de los que la Agencia Tributaria disponía y debe confirmar que todo es correcto.
+
+Los mensajes que puede encontrarse el contribuyente son:
+
+- **Su declaración se está tramitando**: La Agencia Tributaria ha recibido la declaración, pero todavía no ha iniciado la revisión.
+- **Su declaración está siendo comprobada**: Hacienda está comprobando que los números y los datos aportados son los correctos.
+- **Su declaración ha sido tramitada por los órganos de Gestión Tributaria**: Hacienda ya ha terminado de revisar todos los datos de tu declaración, y sólo le queda dar la orden para ingresar la devolución en tu cuenta bancaria.
+
+---
+
 [Seguridad Social](https://sede-tu.seg-social.gob.es/wps/portal/tussR/tuss/Login/)
 
 [Empadronamiento con Firma Electrónica](https://aytosagunto.es/es/el-municipio/servicios-de-interes/servicios-para-la-ciudadania/solicitud-certificado-de-empadronamiento/)
