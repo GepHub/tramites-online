@@ -103,6 +103,7 @@ Enviar la siguiente documentación a la oficina de Extranjería, (ellos dan la c
 Solicitante:
 - Pasaporte (Completo)
 - [X19 completo firmado](https://www.inclusion.gob.es/documents/410169/2156469/19-Tarjeta_familiar_comunitario.pdf)
+
 En caso de menores también presentar:
 - Certificado nacimiento (Apostillado no más de 6 meses)
 - Acta Matrimonio de los padres apostillado no más de 6 meses y pasaporte de madre/padre completos
