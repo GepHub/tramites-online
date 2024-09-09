@@ -131,6 +131,8 @@ Con este trámite realizado se debe volver a pedir cita pero esta vez para retir
 
 [Seguimiento de Expedientes del Registro Civil Central](https://sede.mjusticia.gob.es/es/tramites/seguimiento-expedientes)
 
+Para conocer el número de expediente asignado a nuestra solicitud de ciudadanía, debemos llamar al [telédono:+34918372295](tel:+34918372295)
+
 [Agencia Tributaria](https://sede.agenciatributaria.gob.es)
 
 [Oficina de Empleo, SEPE, (Generalitat Valenciana)](https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=20260)
