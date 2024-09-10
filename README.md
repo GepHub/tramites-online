@@ -170,6 +170,8 @@ Los mensajes que puede encontrarse el contribuyente son:
 
 [DGT](https://sede.dgt.gob.es/es/)
 
+[Actividades del ayuntamiento de Sagunto](https://aytosagunto.apuntate.online/pio/)
+
 ### Certificado médico por estudios 
 
 - Sagunto: Puede realizarse en el Centro médico Morvedre. 
