@@ -127,6 +127,8 @@ Con este trámite realizado se debe volver a pedir cita pero esta vez para retir
 
 [Ciudadanía](https://www.mjusticia.gob.es/es/ciudadania)
 
+[Nacionalidad Española por la Ley de Memoria Democrática](https://www.exteriores.gob.es/Consulados/miami/es/ServiciosConsulares/Paginas/index.aspx?scca=Nacionalidad&scco=Estados+Unidos&scd=196&scs=Nacionalidad+espa%C3%B1ola+por+la+Ley+de+Memoria+Democr%C3%A1tica)
+
 [Registro Civil Sagunto - Cita Previa](https://registrocivil.gva.es/es/cita-previa)
 
 [Seguimiento de Expedientes del Registro Civil Central](https://sede.mjusticia.gob.es/es/tramites/seguimiento-expedientes)
